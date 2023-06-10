@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "1",
+        "name" : "Tulsi",
+        "price" : "300",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+        
+    },
+    {
+        "id" : "2",
+        "name" : "Doopam",
+        "price" : "400",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+    },
+    {
+        "id" : "3",
+        "name" : "Basana",
+        "price" : "200",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+    },
+    {
+        "id" : "4",
+        "name" : "Haladi",
+        "price" : "500",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+    },
+    {
+        "id" : "5",
+        "name" : "Kunkum",
+        "price" : "300",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+    },
+    {
+        "id" : "6",
+        "name" : "Karpooram",
+        "price" : "300",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+    },
+    {
+        "id" : "7",
+        "name" : "Cow Dung Cake",
+        "price" : "600",
+        "img" :"https://rukminim1.flixcart.com/image/416/416/k5cs87k0/sindoor/f/h/e/100-kumkum-powder-roli-for-tilak-and-pooja-kumkum-roli-dark-red-original-imafz26qwpdkxmfg.jpeg?q=70"
+    }
+]
+
